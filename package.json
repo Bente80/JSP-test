@@ -1,0 +1,14 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "Test Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"   // husk at skrive mocha her. Meget vigtigt!!!
+  },
+  "author": "Bente",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
